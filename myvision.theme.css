@@ -21,7 +21,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('C:\\Users\\Sabine\\Documents\\theme\\alena-aenami-all-i-need-1080p.jpg');
+  --background-image: url('https://cdna.artstation.com/p/assets/images/images/032/018/338/large/alena-aenami-all-i-need-1080p.jpg?1605232123');
   --background-shading: 15%;
   --background-position: center;
   --background-size: cover;
@@ -34,7 +34,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgb(0,0,0,0.66);
-  --user-popout-image: url('C:\\Users\\Sabine\\Documents\\theme\\alena-aenami-all-i-need-1080p.jpg');
+  --user-popout-image: url('https://cdna.artstation.com/p/assets/images/images/032/018/338/large/alena-aenami-all-i-need-1080p.jpg?1605232123');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -45,7 +45,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('C:\\Users\\Sabine\\Documents\\theme\\alena-aenami-all-i-need-1080p.jpg');
+  --user-modal-image: url('https://cdna.artstation.com/p/assets/images/images/032/018/338/large/alena-aenami-all-i-need-1080p.jpg?1605232123');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
