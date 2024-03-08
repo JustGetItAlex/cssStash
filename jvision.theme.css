@@ -89,6 +89,10 @@
 
 /* Any custom CSS below here */
 
-.theme-dark .container_ca50b9:before, .typeWindows__5fa63 > .wordmark__0d178:before {
+.theme-dark , .typeWindows__5fa63 > .wordmark__0d178:before {
   content: "JVision";
+}
+
+.container_ca50b9:before {
+  content: "";
 }
