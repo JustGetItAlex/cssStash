@@ -14,46 +14,46 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
-  --main-color: #1870D5;
-  --hover-color: #013169;
-  --success-color: #43B581;
+  --main-color: #C900C9;
+  --hover-color: #9D009D;
+  --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://cdna.artstation.com/p/assets/images/images/040/946/134/large/alena-aenami-portal-001-w.jpg?1630339927');
-  --background-shading: 50%;
+  --background-image: url('https://jgia.at/irgendwelchedateien/thesquad_mexican.png');
+  --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 150%;
+  --background-brightness: 100%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgb(0,10,14,0.6);
-  --user-popout-image: url('https://cdna.artstation.com/p/assets/images/images/026/481/586/large/alena-aenami-wait.jpg?1588884196');
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://jgia.at/irgendwelchedateien/thesquad_mexican.png');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;
-  --user-popout-contrast: 150%;
+  --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
-  --user-popout-grayscale: 20%;
+  --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 0px;
-  --user-modal-image: url('https://cdna.artstation.com/p/assets/images/images/026/481/586/large/alena-aenami-wait.jpg?1588884196');
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://jgia.at/irgendwelchedateien/thesquad_mexican.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
-  --user-modal-contrast: 150%;
+  --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
-  --user-modal-grayscale: 20%;
+  --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 0px;
+  --user-modal-blur: 3px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
@@ -66,7 +66,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   --main-font: Whitney;
-  --code-font: Consolas;
+  --code-font: Fira Code;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
@@ -87,6 +87,7 @@
   --bd-blue-active: var(--hover-color);
 }
 
+
 /* Any custom CSS below here */
 
 .typeWindows-2-g3UY > .wordmark-2u86JB:before {
@@ -100,3 +101,4 @@
 .theme-dark .container-YkUktl:after {
   content: "v. JGIA";
 }
+
