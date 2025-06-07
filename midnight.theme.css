@@ -55,7 +55,7 @@ body {
 
     /* background image options */
     --background-image: on; /* turn on to use a background image */
-    --background-image-url: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://jgia.at/images/thesquad_mexican.png'); /* url of the background image */
+    --background-image-url: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://raw.githubusercontent.com/JustGetItAlex/cssStash/refs/heads/main/img/thesquad_mexican.png'); /* url of the background image */
 
     /* transparency/blur options */
     /* NOTE: TO USE TRANSPARENCY/BLUR, YOU MUST HAVE TRANSPARENT BG COLORS. FOR EXAMPLE: --bg-4: hsla(220, 15%, 10%, 0.7); */
