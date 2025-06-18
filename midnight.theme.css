@@ -154,6 +154,6 @@ body {
 }
 
 /* different scrollbar colour */
-.auto_d125d2::-webkit-scrollbar-thumb, .thin_d125d2::-webkit-scrollbar-thumb, .thin__99f8c::-webkit-scrollbar-thumb {
+.auto_d125d2::-webkit-scrollbar-thumb, .thin_d125d2::-webkit-scrollbar-thumb, .thin__99f8c::-webkit-scrollbar-thumb, .auto__99f8c::-webkit-scrollbar-thumb, .auto__99f8c::-webkit-scrollbar-thin {
     background-color: var(--header-primary);
 }
