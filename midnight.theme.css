@@ -75,7 +75,7 @@ body {
     --chatbar-padding: 8px; /* padding of the chatbar */
 
     /* other options */
-    --small-user-panel: on; /* off: default user panel, on: smaller user panel like in old discord */
+    --small-user-panel: off; /* off: default user panel, on: smaller user panel like in old discord */
 }
 
 /* color options */
